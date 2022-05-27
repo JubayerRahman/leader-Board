@@ -1,0 +1,104 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #E5E5E5;
+}
+.nav{
+    background-color: #562EFF;
+    padding: 10px;
+}
+.nev{
+    color: white;
+}
+.link1{
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left:  15px;
+    padding-right: 15px;
+}
+.link1Image{
+    width: 30px;
+    height: 30px;
+}
+.topPlayer h1{
+    font-size: 24px;
+    font-weight: 500px;
+    line-height: 36px;
+    color: #562EFF;
+    padding-bottom: 30px;
+}
+.topPlayer{
+    margin-top: 25px;
+    margin-bottom: 50px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+}
+.playerImage{
+    height: 56px;
+    width: 56px;
+}
+.playerName{
+    font-size: 18px;
+    padding-right:20px;
+    font-weight: 500;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.playerdata{
+    margin-bottom: 30px;
+}
+.topBorder{
+    border-bottom: 2px solid #9F9F9F;
+}
+.blogCard{
+    border: none;
+}
+.cardName{
+    font-size: 30px;
+    line-height: 34px;
+    font-weight: 500;   
+}
+.cardDetails{
+    size: 16px;
+    line-height: 24px;
+    font-weight: 500; 
+}
+.bloglink{
+    text-decoration: none;
+    color: #562EFF;
+}
+.ratingText{
+    margin-top: 5px;
+    color: #9F9F9F;
+    font-size: 15px;
+    font-weight: 700;
+}
+.courses{
+    border: none;
+    box-shadow: 0px 0px 10px lightgrey;
+    border-radius: 10px;
+}
+.timing{
+    background-color:#FFE4E8;
+    padding: 2px 5px;
+    border-radius: 20px;
+}
+.ratingTime{
+    color:#FF4A60;
+    font-weight: 600;
+    font-size: 15px;
+    padding-top: 5px;
+    padding-right: 5px;
+}
+.courseTittle{
+    font-size: 30px;
+    font-weight: 600;
+
+}
+.courseAuthor{
+    font-size: 16px;
+    font-weight: 400;
+    color: #FF4A60;
+}
